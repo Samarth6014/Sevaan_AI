@@ -1,0 +1,40 @@
+{
+  "scheme_id": "post_matric_sc",
+  "name": "Post Matric Scholarship for SC students (PMS-SC)",
+  "ministry": "Department of Social Justice & Empowerment",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "pmsfss",
+  "source_official_url": "https://www.socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": null,
+  "drafted": true,
+  "categories": [
+    "post-matric",
+    "SC"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "category",
+        "op": "==",
+        "value": "SC",
+        "text": "Student belongs to the Scheduled Caste category.",
+        "needs_verification": false
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Financial assistance for post-matriculation/post-secondary studies in India under the PMS-SC scheme; amount depends on course group and admissible components under the scheme guidelines.",
+    "amount_per_year": null
+  },
+  "documents": [],
+  "faqs": [],
+  "deadline": {
+    "date": null,
+    "note": "The Department of Social Justice & Empowerment maintains PMS-SC as an active scheme, but the current AY 2026-27 NSP timeline for the exact PMS-SC entry was not established in this audit."
+  }
+}

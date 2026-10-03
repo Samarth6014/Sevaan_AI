@@ -1,0 +1,76 @@
+{
+  "scheme_id": "pragati",
+  "name": "AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Degree)",
+  "ministry": "All India Council for Technical Education",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "psgs-deg",
+  "source_official_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": "central_one_scholarship",
+  "drafted": true,
+  "categories": [
+    "technical-degree",
+    "girls",
+    "merit-based"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "gender",
+        "op": "==",
+        "value": "female",
+        "text": "Girl student.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 800000,
+        "text": "Family income from all sources not more than Rs. 8 lakh per annum.",
+        "needs_verification": false
+      },
+      {
+        "id": "r3",
+        "field": "institution_recognized",
+        "op": "is_true",
+        "value": null,
+        "text": "Admitted to an AICTE-approved institution.",
+        "needs_verification": false
+      },
+      {
+        "id": "r4",
+        "field": "current_level",
+        "op": "==",
+        "value": "UG",
+        "text": "Degree-level study; first year or second year through lateral entry.",
+        "needs_verification": true
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Rs. 50,000 per annum for every year of study under the cited AICTE guideline, subject to duration rules.",
+    "amount_per_year": 50000
+  },
+  "documents": [
+    {
+      "id": "income_certificate",
+      "label": "Income certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    }
+  ],
+  "faqs": [],
+  "deadline": {
+    "date": "2026-10-31",
+    "note": "NSP AY 2026-27 student application currently open till 31-10-2026."
+  }
+}

@@ -1,0 +1,3320 @@
+[
+ {
+  "persona_id": "p000",
+  "profile": {
+   "family_income_annual": 300000,
+   "institution_type": "central_school",
+   "marks_pct_class7": 45,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p001",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p002",
+  "profile": {
+   "family_income_annual": 120000,
+   "institution_type": "local_body",
+   "marks_pct_class7": 60
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p003",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 50
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p004",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 9,
+   "institution_type": "central_school",
+   "marks_pct_class7": 80,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p005",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 80,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p006",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 11,
+   "institution_type": "aided",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p007",
+  "profile": {
+   "family_income_annual": 300000,
+   "marks_pct_class7": 60,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p008",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 60,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p009",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "government",
+   "marks_pct_class7": 50
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p010",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": "UG",
+   "institution_type": "private",
+   "marks_pct_class7": 50,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p011",
+  "profile": {
+   "family_income_annual": 180000,
+   "institution_type": "aided",
+   "marks_pct_class7": 50,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p012",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "private",
+   "marks_pct_class7": 80,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p013",
+  "profile": {
+   "family_income_annual": 120000,
+   "institution_type": "local_body"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p014",
+  "profile": {
+   "institution_type": "government",
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p015",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 60
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p016",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "central_school",
+   "marks_pct_class7": 55,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p017",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p018",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p019",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "institution_type": "aided",
+   "marks_pct_class7": 60,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p020",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p021",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": 11,
+   "institution_type": "aided",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p022",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 8,
+   "institution_type": "government",
+   "marks_pct_class7": 60,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p023",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "central_school",
+   "marks_pct_class7": 45,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p024",
+  "profile": {
+   "family_income_annual": 351000,
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p025",
+  "profile": {
+   "current_level": 9,
+   "institution_type": "central_school",
+   "marks_pct_class7": 50,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p026",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 55,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p027",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 80
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p028",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": "UG",
+   "institution_type": "government",
+   "marks_pct_class7": 80
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p029",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 9,
+   "institution_type": "aided",
+   "marks_pct_class7": 55,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p030",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": "UG",
+   "institution_type": "local_body",
+   "marks_pct_class7": 80,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p031",
+  "profile": {
+   "family_income_annual": 500000,
+   "marks_pct_class7": 80
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p032",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 8,
+   "institution_type": "aided",
+   "marks_pct_class7": 55
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p033",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 60,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p034",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "aided",
+   "marks_pct_class7": 55,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p035",
+  "profile": {
+   "family_income_annual": 300000,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p036",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 10,
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p037",
+  "profile": {
+   "family_income_annual": 180000,
+   "marks_pct_class7": 80,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p038",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 8,
+   "institution_type": "government"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p039",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 10,
+   "marks_pct_class7": 50
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p040",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p041",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 8,
+   "institution_type": "local_body",
+   "marks_pct_class7": 80,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p042",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": "UG",
+   "institution_type": "central_school",
+   "marks_pct_class7": 80,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p043",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "private",
+   "marks_pct_class7": 45
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p044",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 11,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p045",
+  "profile": {
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p046",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "local_body",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p047",
+  "profile": {
+   "current_level": 8,
+   "institution_type": "private",
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p048",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 10,
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p049",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": "UG",
+   "marks_pct_class7": 80,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p050",
+  "profile": {
+   "current_level": 9,
+   "marks_pct_class7": 45,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p051",
+  "profile": {
+   "current_level": "UG",
+   "institution_type": "aided",
+   "marks_pct_class7": 60,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p052",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 8,
+   "institution_type": "central_school",
+   "marks_pct_class7": 55,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p053",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 11,
+   "institution_type": "government"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p054",
+  "profile": {
+   "institution_type": "local_body",
+   "marks_pct_class7": 80,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p055",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p056",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 8,
+   "institution_type": "private",
+   "marks_pct_class7": 60,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p057",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": "UG",
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p058",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 10,
+   "institution_type": "aided",
+   "marks_pct_class7": 60,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p059",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "private",
+   "marks_pct_class7": 60,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p060",
+  "profile": {
+   "current_level": 8,
+   "institution_type": "private",
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p061",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 8,
+   "institution_type": "private",
+   "marks_pct_class7": 45,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p062",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 9,
+   "institution_type": "private",
+   "marks_pct_class7": 60,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p063",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 8,
+   "institution_type": "central_school",
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p064",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": 11,
+   "institution_type": "central_school",
+   "marks_pct_class7": 55,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p065",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "central_school",
+   "marks_pct_class7": 45,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p066",
+  "profile": {
+   "family_income_annual": 300000,
+   "institution_type": "central_school",
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p067",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": "UG",
+   "institution_type": "aided",
+   "marks_pct_class7": 45,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p068",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": "UG",
+   "institution_type": "private",
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p069",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "central_school",
+   "marks_pct_class7": 55,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p070",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 8,
+   "marks_pct_class7": 80,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p071",
+  "profile": {
+   "institution_type": "government",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p072",
+  "profile": {
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 60,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p073",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 8,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p074",
+  "profile": {
+   "current_level": 8,
+   "institution_type": "central_school",
+   "marks_pct_class7": 55,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p075",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 10,
+   "institution_type": "aided",
+   "marks_pct_class7": 60
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p076",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": "UG",
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p077",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": "UG",
+   "institution_type": "central_school",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p078",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 80,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p079",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 8,
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p080",
+  "profile": {
+   "marks_pct_class7": 60,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p081",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "marks_pct_class7": 55,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p082",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": 10,
+   "institution_type": "private",
+   "marks_pct_class7": 60,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p083",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 8,
+   "institution_type": "private",
+   "marks_pct_class7": 50,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p084",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 10,
+   "institution_type": "private",
+   "marks_pct_class7": 55
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p085",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 11,
+   "marks_pct_class7": 60
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p086",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p087",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "institution_type": "aided",
+   "marks_pct_class7": 60,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p088",
+  "profile": {
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 45,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p089",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": "UG",
+   "institution_type": "aided",
+   "marks_pct_class7": 80,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p090",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": 11,
+   "institution_type": "aided",
+   "marks_pct_class7": 50
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p091",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": "UG",
+   "marks_pct_class7": 50,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p092",
+  "profile": {
+   "current_level": 8,
+   "institution_type": "private",
+   "marks_pct_class7": 50
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p093",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "marks_pct_class7": 80,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p094",
+  "profile": {
+   "current_level": 8,
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p095",
+  "profile": {
+   "family_income_annual": 900000,
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p096",
+  "profile": {
+   "current_level": 11,
+   "institution_type": "local_body",
+   "marks_pct_class7": 50,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p097",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "private",
+   "marks_pct_class7": 80,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p098",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 11,
+   "institution_type": "aided",
+   "marks_pct_class7": 45,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p099",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "institution_type": "aided",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p100",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": "UG",
+   "institution_type": "aided",
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p101",
+  "profile": {
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 60,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p102",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 60,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p103",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": 11,
+   "institution_type": "private",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p104",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 10,
+   "institution_type": "government",
+   "marks_pct_class7": 60,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p105",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "private",
+   "marks_pct_class7": 60,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p106",
+  "profile": {
+   "institution_type": "aided",
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p107",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 8,
+   "institution_type": "government",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p108",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 45,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p109",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 9,
+   "institution_type": "government",
+   "marks_pct_class7": 55,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p110",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": "UG",
+   "institution_type": "central_school",
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p111",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 10,
+   "institution_type": "private",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p112",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": "UG",
+   "institution_type": "local_body",
+   "marks_pct_class7": 45,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p113",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 9,
+   "institution_type": "private",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p114",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": "UG",
+   "institution_type": "private",
+   "marks_pct_class7": 45,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p115",
+  "profile": {
+   "institution_type": "aided",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p116",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": "UG",
+   "institution_type": "private",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p117",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": 9,
+   "institution_type": "central_school",
+   "marks_pct_class7": 45,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p118",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": "UG",
+   "institution_type": "private",
+   "marks_pct_class7": 80,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p119",
+  "profile": {
+   "family_income_annual": 120000,
+   "institution_type": "government",
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p120",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": 11,
+   "institution_type": "aided",
+   "marks_pct_class7": 80,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p121",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 8,
+   "institution_type": "central_school",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p122",
+  "profile": {
+   "current_level": 8,
+   "institution_type": "private",
+   "marks_pct_class7": 50,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p123",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": "UG",
+   "institution_type": "central_school",
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p124",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 9,
+   "institution_type": "aided",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p125",
+  "profile": {
+   "family_income_annual": 500000,
+   "current_level": "UG",
+   "institution_type": "central_school",
+   "marks_pct_class7": 60,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p126",
+  "profile": {
+   "current_level": 9
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p127",
+  "profile": {
+   "current_level": 9
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p128",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 10,
+   "institution_type": "aided",
+   "marks_pct_class7": 80,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p129",
+  "profile": {
+   "family_income_annual": 120000,
+   "institution_type": "government",
+   "marks_pct_class7": 45,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p130",
+  "profile": {
+   "family_income_annual": 349000,
+   "institution_type": "government",
+   "marks_pct_class7": 55,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p131",
+  "profile": {
+   "family_income_annual": 351000,
+   "institution_type": "private",
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p132",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": "UG",
+   "marks_pct_class7": 45,
+   "category": "EWS"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p133",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 10,
+   "institution_type": "central_school",
+   "marks_pct_class7": 45,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p134",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": "UG",
+   "institution_type": "aided",
+   "marks_pct_class7": 55,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p135",
+  "profile": {
+   "current_level": "UG",
+   "institution_type": "government",
+   "marks_pct_class7": 55,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p136",
+  "profile": {
+   "family_income_annual": 120000,
+   "current_level": 10,
+   "institution_type": "aided",
+   "marks_pct_class7": 55,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p137",
+  "profile": {
+   "family_income_annual": 180000,
+   "current_level": "UG",
+   "institution_type": "local_body",
+   "marks_pct_class7": 80,
+   "category": "GEN"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p138",
+  "profile": {
+   "family_income_annual": 300000,
+   "institution_type": "central_school",
+   "marks_pct_class7": 60,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p139",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 10,
+   "institution_type": "local_body",
+   "marks_pct_class7": 50,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p140",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 8,
+   "institution_type": "aided",
+   "marks_pct_class7": 45,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p141",
+  "profile": {
+   "family_income_annual": 120000,
+   "institution_type": "private",
+   "marks_pct_class7": 50,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p142",
+  "profile": {
+   "family_income_annual": 300000,
+   "current_level": 11,
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p143",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 11,
+   "institution_type": "aided",
+   "marks_pct_class7": 80,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "en"
+ },
+ {
+  "persona_id": "p144",
+  "profile": {
+   "family_income_annual": 349000,
+   "current_level": 9,
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "unknown",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p145",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "marks_pct_class7": 45,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p146",
+  "profile": {
+   "family_income_annual": 900000,
+   "current_level": 9,
+   "institution_type": "local_body",
+   "marks_pct_class7": 55
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p147",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 10,
+   "institution_type": "central_school",
+   "marks_pct_class7": 60,
+   "category": "SC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "te"
+ },
+ {
+  "persona_id": "p148",
+  "profile": {
+   "family_income_annual": 300000,
+   "institution_type": "private",
+   "marks_pct_class7": 55,
+   "category": "OBC"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ },
+ {
+  "persona_id": "p149",
+  "profile": {
+   "family_income_annual": 351000,
+   "current_level": 10,
+   "institution_type": "government",
+   "marks_pct_class7": 50,
+   "category": "ST"
+  },
+  "expected": {
+   "css_college": "unknown",
+   "nmmss": "not_eligible",
+   "pm_yasasvi": "unknown",
+   "post_matric_minorities": "unknown",
+   "post_matric_pwd": "unknown",
+   "post_matric_sc": "unknown",
+   "pragati": "unknown",
+   "pre_matric_minorities": "unknown",
+   "saksham": "unknown",
+   "swanath": "unknown"
+  },
+  "preferred_language": "hi"
+ }
+]

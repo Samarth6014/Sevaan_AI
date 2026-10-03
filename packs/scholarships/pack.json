@@ -1,0 +1,7 @@
+{
+  "id": "scholarships",
+  "name": "Central Government Scholarships (NSP)",
+  "languages": ["en", "hi", "te"],
+  "workflow": "scholarship",
+  "connector": "nsp"
+}

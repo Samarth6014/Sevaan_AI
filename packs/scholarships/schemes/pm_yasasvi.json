@@ -1,0 +1,121 @@
+{
+  "scheme_id": "pm_yasasvi",
+  "name": "PM YASASVI Central Sector Scheme Of Top Class Education In College For OBC, EBC And DNT Students",
+  "ministry": "Department of Social Justice & Empowerment (Backward Classes Division)",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "pm-yasasvipmsobcebcdnts",
+  "source_official_url": "https://scholarships.gov.in/public/schemeGuidelines/ApprovedmodifieddraftofTopClassCollege.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": null,
+  "drafted": true,
+  "categories": [
+    "college",
+    "merit-based",
+    "OBC",
+    "EBC",
+    "DNT"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 250000,
+        "text": "Total annual family income from all sources up to Rs. 2.50 lakh.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "institution_recognized",
+        "op": "is_true",
+        "value": null,
+        "text": "Admission in a notified/empanelled Top Class institution under the scheme.",
+        "needs_verification": true
+      },
+      {
+        "id": "r3",
+        "field": "study_mode",
+        "op": "==",
+        "value": "regular",
+        "text": "Full-time prescribed course beyond Class XII.",
+        "needs_verification": false
+      },
+      {
+        "id": "r4",
+        "field": "current_level",
+        "op": "in",
+        "value": [
+          "UG",
+          "PG"
+        ],
+        "text": "Post-Class-XII higher-education level represented by the current profile model.",
+        "needs_verification": true
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Full tuition and non-refundable charges subject to scheme ceilings; living expenses Rs.3,000/month, books/stationery Rs.5,000/year and one-time computer/laptop assistance up to Rs.45,000.",
+    "amount_per_year": null
+  },
+  "documents": [
+    {
+      "id": "income_certificate",
+      "label": "Income certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "caste_certificate",
+      "label": "Caste certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "bank_details",
+      "label": "Bank account details",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "admission_rank",
+      "label": "Admission rank/merit details",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "fee_details",
+      "label": "Fee details",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    }
+  ],
+  "faqs": [],
+  "deadline": {
+    "date": "2026-10-31",
+    "note": "NSP AY 2026-27 student application currently open till 31-10-2026."
+  }
+}

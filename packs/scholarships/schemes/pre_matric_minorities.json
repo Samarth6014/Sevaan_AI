@@ -1,0 +1,59 @@
+{
+  "scheme_id": "pre_matric_minorities",
+  "name": "Pre Matric Scholarship Scheme for Minorities",
+  "ministry": "Ministry of Minority Affairs",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "presm",
+  "source_official_url": "https://www.minorityaffairs.gov.in/WriteReadData/RTF1984/1671796205.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": "central_one_scholarship",
+  "drafted": true,
+  "categories": [
+    "pre-matric",
+    "minority"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "minority_community",
+        "op": "is_true",
+        "value": null,
+        "text": "Student belongs to a notified minority community.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "current_level",
+        "op": "in",
+        "value": [
+          9,
+          10
+        ],
+        "text": "From 2022-23 onward, coverage is restricted to Classes IX and X.",
+        "needs_verification": false
+      },
+      {
+        "id": "r3",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 100000,
+        "text": "Parents/guardians annual income does not exceed Rs. 1.00 lakh.",
+        "needs_verification": false
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Pre-matric scholarship for minority-community students; the official scheme document describes support for school education subject to scheme conditions.",
+    "amount_per_year": null
+  },
+  "documents": [],
+  "faqs": [],
+  "deadline": {
+    "date": null,
+    "note": "Official Ministry sources confirm the scheme and the IX-X restriction from 2022-23, but a current AY 2026-27 NSP timeline for this exact entry was not established in this audit."
+  }
+}

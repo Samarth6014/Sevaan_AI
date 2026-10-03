@@ -1,0 +1,113 @@
+{
+  "scheme_id": "nmmss",
+  "name": "National Means Cum Merit Scholarship (NMMSS)",
+  "ministry": "Department of School Education & Literacy, Ministry of Education",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "nmmss",
+  "source_official_url": "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": null,
+  "drafted": true,
+  "categories": [
+    "school",
+    "merit-based"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 350000,
+        "text": "Parental income from all sources not more than Rs. 3,50,000 per annum.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "current_level",
+        "op": "==",
+        "value": 9,
+        "text": "Entering class IX after the selection stage.",
+        "needs_verification": false
+      },
+      {
+        "id": "r3",
+        "field": "institution_type",
+        "op": "in",
+        "value": [
+          "government",
+          "aided",
+          "local_body"
+        ],
+        "text": "Regular student in a Government, Government-aided or local body school.",
+        "needs_verification": false
+      },
+      {
+        "id": "r4",
+        "field": "marks_pct_class7",
+        "op": ">=",
+        "value": 55,
+        "text": "At least 55% in Class VII, relaxable by 5 percentage points for SC/ST students.",
+        "needs_verification": false,
+        "relax": {
+          "if": {
+            "field": "category",
+            "op": "in",
+            "value": [
+              "SC",
+              "ST"
+            ]
+          },
+          "by": 5
+        }
+      }
+    ],
+    "none_of": [
+      {
+        "id": "x1",
+        "field": "institution_type",
+        "op": "in",
+        "value": [
+          "central_school",
+          "residential",
+          "private"
+        ],
+        "text": "Kendriya Vidyalayas, Jawahar Navodaya Vidyalayas, specified residential government schools and private schools are excluded.",
+        "needs_verification": false
+      }
+    ]
+  },
+  "benefit": {
+    "text": "Rs. 12,000 per year (Rs. 1,000 per month) under the revised guideline.",
+    "amount_per_year": 12000
+  },
+  "documents": [
+    {
+      "id": "income_certificate",
+      "label": "Income certificate of parents",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "mark_sheet",
+      "label": "Class 7th mark sheet",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    }
+  ],
+  "faqs": [],
+  "deadline": {
+    "date": "2026-10-31",
+    "note": "NSP AY 2026-27 student application currently open till 31-10-2026."
+  }
+}

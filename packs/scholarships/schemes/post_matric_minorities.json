@@ -1,0 +1,48 @@
+{
+  "scheme_id": "post_matric_minorities",
+  "name": "Post Matric Scholarship Scheme for Minorities",
+  "ministry": "Ministry of Minority Affairs",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "postsm",
+  "source_official_url": "https://minorityaffairs.gov.in/WriteReadData/RTF1984/1672032313.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": "central_one_scholarship",
+  "drafted": true,
+  "categories": [
+    "post-matric",
+    "minority"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "minority_community",
+        "op": "is_true",
+        "value": null,
+        "text": "Student belongs to a notified minority community.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 200000,
+        "text": "Parents/guardians annual income does not exceed Rs. 2.00 lakh.",
+        "needs_verification": false
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Scholarship for minority students in post-matric studies; the scheme guideline provides course-fee/tuition and maintenance support subject to the applicable rules.",
+    "amount_per_year": null
+  },
+  "documents": [],
+  "faqs": [],
+  "deadline": {
+    "date": null,
+    "note": "Official Ministry sources confirm the scheme, but a current AY 2026-27 NSP timeline for this exact entry was not established in this audit."
+  }
+}
