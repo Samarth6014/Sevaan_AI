@@ -1,0 +1,6 @@
+{ "app": "ScholarPath", "demo": "Demo only: simulated login, simulated government portal, synthetic data.",
+  "skip": "Skip to main content", "schemes": "Schemes", "chat": "Apply with help", "cases": "My cases", "docs": "My documents",
+  "notifications": "Notifications", "consent": "Consent", "assisted": "Helper cases", "admin": "Admin", "trace": "Activity",
+  "login": "Log in", "logout": "Log out", "phone": "Phone number", "otp": "OTP", "send": "Send", "yes": "Yes, confirm", "no": "No, change something",
+  "readAloud": "Read aloud", "lite": "Lite mode", "largeText": "Large text", "contrast": "High contrast", "language": "Language",
+  "typeHere": "Type your answer", "listen": "Speak", "feedback": "Send feedback" }

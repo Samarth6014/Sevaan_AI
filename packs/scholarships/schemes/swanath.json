@@ -1,0 +1,105 @@
+{
+  "scheme_id": "swanath",
+  "name": "AICTE - Swanath Scholarship Scheme ( Technical Degree)",
+  "ministry": "All India Council for Technical Education",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "aicte-ssss",
+  "source_official_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": "central_one_scholarship",
+  "drafted": true,
+  "categories": [
+    "technical-degree",
+    "welfare-based"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 800000,
+        "text": "Family income from all sources not more than Rs. 8 lakh per annum.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "study_mode",
+        "op": "==",
+        "value": "regular",
+        "text": "Currently studying in an AICTE-approved Degree/Diploma course in regular mode.",
+        "needs_verification": false
+      },
+      {
+        "id": "r3",
+        "field": "institution_recognized",
+        "op": "is_true",
+        "value": null,
+        "text": "Studying in an AICTE-approved institution/course.",
+        "needs_verification": false
+      },
+      {
+        "id": "r4",
+        "field": "receiving_other_scholarship",
+        "op": "is_false",
+        "value": null,
+        "text": "Not a recipient of another Central/State/AICTE-sponsored scholarship.",
+        "needs_verification": false
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Rs. 50,000 per annum; amount is intended as a lump sum toward college fee, computer, stationery, books, equipment/software and related study expenses.",
+    "amount_per_year": 50000
+  },
+  "documents": [
+    {
+      "id": "income_certificate",
+      "label": "Income certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "bonafide_certificate",
+      "label": "Bonafide certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "marksheets",
+      "label": "Qualifying examination mark sheet(s)",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "category_certificate",
+      "label": "Category certificate where applicable",
+      "required": false,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    }
+  ],
+  "faqs": [],
+  "deadline": {
+    "date": "2026-10-31",
+    "note": "NSP AY 2026-27 student application currently open till 31-10-2026. The cited 2025 AICTE guideline contains multiple qualifying pathways; the frozen rule schema cannot represent all of the OR pathways exactly."
+  }
+}

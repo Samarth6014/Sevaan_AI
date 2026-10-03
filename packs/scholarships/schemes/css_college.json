@@ -1,0 +1,84 @@
+{
+  "scheme_id": "css_college",
+  "name": "PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS)",
+  "ministry": "Department of Higher Education, Ministry of Education",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "csss-cus",
+  "source_official_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": "central_one_scholarship",
+  "drafted": true,
+  "categories": [
+    "college",
+    "university",
+    "merit-based"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "class12_board_percentile",
+        "op": ">=",
+        "value": 80,
+        "text": "Above the 80th percentile of successful candidates in the relevant stream in Class XII.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "study_mode",
+        "op": "==",
+        "value": "regular",
+        "text": "Pursuing a regular degree course; correspondence/distance is not eligible.",
+        "needs_verification": false
+      },
+      {
+        "id": "r3",
+        "field": "institution_recognized",
+        "op": "is_true",
+        "value": null,
+        "text": "Studying in an institution recognized by the applicable regulatory body.",
+        "needs_verification": false
+      },
+      {
+        "id": "r4",
+        "field": "family_income_annual",
+        "op": "<=",
+        "value": 450000,
+        "text": "Gross parental/family income up to Rs. 4.5 lakh per annum.",
+        "needs_verification": false
+      },
+      {
+        "id": "r5",
+        "field": "receiving_other_scholarship",
+        "op": "is_false",
+        "value": null,
+        "text": "Not availing another merit/state scholarship, fee waiver or reimbursement scheme.",
+        "needs_verification": false
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Financial assistance under PM-USP CSSS; the applicable amount depends on the course/year and is governed by the current scheme guidelines.",
+    "amount_per_year": null
+  },
+  "documents": [
+    {
+      "id": "income_certificate",
+      "label": "Income certificate (fresh applicants only)",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    }
+  ],
+  "faqs": [],
+  "deadline": {
+    "date": "2026-09-30",
+    "note": "AY 2026-27 fresh student application closed on 30-09-2026; renewal student application remains open till 31-10-2026."
+  }
+}

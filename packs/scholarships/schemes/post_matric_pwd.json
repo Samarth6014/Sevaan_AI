@@ -1,0 +1,118 @@
+{
+  "scheme_id": "post_matric_pwd",
+  "name": "Post Matric Scholarship For Students With Disabilities",
+  "ministry": "Department of Empowerment of Persons with Disabilities, Ministry of Social Justice and Empowerment",
+  "level": "central",
+  "portal": "scholarships.gov.in",
+  "source_dataset_slug": "post-dis",
+  "source_official_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+  "verified": false,
+  "verified_by": null,
+  "exclusive_group": "central_one_scholarship",
+  "drafted": true,
+  "categories": [
+    "post-matric",
+    "disability",
+    "welfare-based"
+  ],
+  "eligibility": {
+    "all_of": [
+      {
+        "id": "r1",
+        "field": "disability_percent",
+        "op": ">=",
+        "value": 40,
+        "text": "Benchmark disability of 40% or more.",
+        "needs_verification": false
+      },
+      {
+        "id": "r2",
+        "field": "institution_recognized",
+        "op": "is_true",
+        "value": null,
+        "text": "Recognized post-matric/post-secondary course in a recognized institution/university.",
+        "needs_verification": false
+      },
+      {
+        "id": "r3",
+        "field": "receiving_other_scholarship",
+        "op": "is_false",
+        "value": null,
+        "text": "The scheme does not allow another scholarship/stipend simultaneously.",
+        "needs_verification": false
+      }
+    ],
+    "none_of": []
+  },
+  "benefit": {
+    "text": "Post-matric support includes reimbursement of admissible tuition/fees, maintenance allowance, disability allowance and book allowance under the 2024 revised guidelines.",
+    "amount_per_year": null
+  },
+  "documents": [
+    {
+      "id": "photograph",
+      "label": "Photograph",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "age_proof",
+      "label": "Proof of age",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "disability_certificate",
+      "label": "Disability certificate/UDID evidence",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "income_certificate",
+      "label": "Parent income certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "tuition_fee_receipt",
+      "label": "Tuition fee receipt",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    },
+    {
+      "id": "last_qualification",
+      "label": "Last academic qualification certificate",
+      "required": true,
+      "where_to_get": {
+        "office": "verify",
+        "carry": [],
+        "note": "verify on official source"
+      }
+    }
+  ],
+  "faqs": [],
+  "deadline": {
+    "date": "2026-10-31",
+    "note": "NSP AY 2026-27 student application currently open till 31-10-2026."
+  }
+}
